@@ -2,7 +2,7 @@ This repository contains data accompanying the JQSRT paper "T-matrix computation
 
 Full details, including scatterer descriptions, are given in the paper.
 
-See 
+See
 
   index.csv - a list of all data files
   
