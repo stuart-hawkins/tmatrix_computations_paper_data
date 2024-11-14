@@ -1,0 +1,6 @@
+name,format,description
+theta,double,scattering angle in radians (0 = forward scattering direction)
+real(S11),double,real part of the parallel differential scattering cross section
+imag(S11),double,imaginary part of the parallel differential scattering cross section
+real(S22),double,real part of the perpendicular differential scattering cross section
+imag(S22),double,imaginary part of the perpendicular differential scattering cross section
